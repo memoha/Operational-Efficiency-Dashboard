@@ -19,6 +19,5 @@ You can view the interactive dashboard on Tableau Public: https://public.tableau
 2. **Analyze Trends**: Use the filters to analyze how different factors impact productivity.
 3. **Download Reports**: If needed, export images or PDFs of the dashboard for reporting purposes.
 
-## Contact
-For questions or feedback, please contact [Your Name] at [Your Email].
+
 
